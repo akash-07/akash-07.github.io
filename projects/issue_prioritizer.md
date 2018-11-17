@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Issue Prioritizer - A tool to priortize issues on Github
-date: 2018-18-11
 ---
 
 ## This page contains my project description for github issue prioritizer.
