@@ -6,7 +6,9 @@ We decided to participate in this competition for fun and filled the form pretty
 
 Having made 3-4 attempts, I decided to buy every part afresh and build a new bot altogether. The shop was 120 kms away in the city of Chennai. Without consulting the team, I took a train, traveled 3hrs and 3hrs back. We had all materials now, new and afresh, all set to make a new bot. But time was running out. We were to build the bot, configure all sensors & finally the toughest part of all: write an algorithm for maze solving. We had 3 days and one goal.
 
-We took to building the bot again, divided the tasks, configured the turns. We had no hostel-mess to eat breakfast, neither lunch nor dinner. Time was miserable and I fell ill. With 4 days of outside food, I caught severe stomach ache. While everyone continued, I took to bed for a day. We had one day to go. The bot was not fully ready though. We had some potential problems with IR sensor though we fixed the turns correctly. Saket took to writing the algorithm while Ganatma designed a covering for the bot. The Arduino mini got burned, Aditya took to shop and quickly bought a new Arduino Mega.  
+We took to building the bot again, divided the tasks, configured the turns. We had no hostel-mess to eat breakfast, neither lunch nor dinner. Time was miserable and I fell ill. With 4 days of outside food, I caught severe stomach ache. While everyone continued, I took to bed for a day. We had one day to go. The bot was not fully ready though. We had some potential problems with IR sensor though we fixed the turns correctly. Saket took to writing the algorithm while Ganatma designed a covering for the bot. The Arduino mini got burned, Aditya took to shop and quickly bought a new Arduino Mega. The bot looked like this:
+
+![photo__shaastra 2017iitm](https://user-images.githubusercontent.com/24961068/48666305-29882a00-eae5-11e8-92cc-c23e74b82d99.jpg)
 
 It was 9 pm, last day of the year, we had to leave early morning for the competition. The algorithm wasn't optimal though it solved the maze correctly. We were half ready for round 1 of the competition, did not at all prepare for round 2. Having come this far, we continued to work over night, we worked till 4 am in the morning, finally taking a bus for the same 3hrs journey. Fast forward with the half ready bot, we stepped into the preliminary round. It was a total mess. The bot missed junctions, remembered nothing, took mindless turns and what not. Saket and Aditya gave up, left the bot in the arena and went to watch other competitions in the festival. Me and Ganatma stayed with in the arena somehow managed to clear the prelims. Tricking the judges, I kept placing the misalsigned bot in a way to skip junctions which led to misalginment. We weren't cheating, we just had no other way.
 
@@ -16,9 +18,8 @@ Due to non availability of one continuous large board, the designers had used tw
 
 Yes it was magic. We failed until the last moment and we won. We had completed the final maze in less than half the time taken by all other teams with no penalties at all. It was the most memorable day of my life.
 
-All that I have to show you, is our pic after winning the competition and a small video of our bot!
+All that I have to show you, is our pic after winning the competition!
 
+![photos__shaastra 2017 iit madras](https://user-images.githubusercontent.com/24961068/48666329-5d634f80-eae5-11e8-8058-9eba02fb8cd5.jpg)
 
-
-    
-For technical details of maze solving, please find my half written book here.
+For technical details of maze solving, please find my half written book [here](maze-solving-robot.pdf).
