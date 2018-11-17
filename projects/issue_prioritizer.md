@@ -59,15 +59,11 @@ We need to identify the category of the issue, as some issues are more crucial t
 **References**
 
 1. https://guides.github.com/features/issues
-2. Automatically Prioritizing Pull Requests, Erik van de Veen, Georgios Gousios
-and Andy Zaidman in the Proceedings of 12th Working Conference on Mining
+2. Automatically Prioritizing Pull Requests, Erik van de Veen, Georgios Gousios and Andy Zaidman in the Proceedings of 12th Working Conference on Mining
 Software Repositories, 2015
-3. G. Gousios, A. Zaidman, M.-A. Storey, and A. van Deursen, âĂĲWork practices
-and challenges in pull-based development: The integrator âĂŹs perspective,âĂİ
-in Proceedings of the 37th International Conference on Softw are Engineering
-(ICSE), 2015.
-4. https://support.google.com/youtube/answ er/7239739?hl=en
-5. https://github.com/tensorflow /tensorflow
+3. G. Gousios, A. Zaidman, M.-A. Storey, and A. van Deursen, Work practices and challenges in pull-based development: The integrator perspective,in Proceedings of the 37th International Conference on Softw are Engineering (ICSE), 2015.
+4. https://support.google.com/youtube/answer/7239739?hl=en
+5. https://github.com/tensorflow/tensorflow
 
 
 
