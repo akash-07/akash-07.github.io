@@ -9,7 +9,7 @@
 
 ### Description
 
-In this project, we build a regular expression to Finite State Automata converter in Haskell from scratch. Purpose of writing in Haskell is to exploit its functional features like higher order functions, lazy evaluation, pattern matching, immutablility, etc while understanding the fundamentals of code composition in a functional language. The code is concise, readable and is much shorter than any object oriented language like Java or C++.
+In this project, we built a regular expression to Finite State Automata converter in Haskell from scratch. Purpose of writing in Haskell is to exploit its functional features like higher order functions, lazy evaluation, pattern matching, immutablility, etc while understanding the fundamentals of code composition in a functional language. The code is concise, readable and is much shorter than any object oriented language like Java or C++.
 
 - We use the Thompson's recursive algorithm for NFA construction from regular expressions. 
 - Algorithm for converting regular expressions directly into DFA taken from the book Compilers: Principles, Techniques and Tools by Aho, Ullman, Sethi and Lam.
