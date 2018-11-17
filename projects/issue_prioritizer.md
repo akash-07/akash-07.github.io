@@ -7,3 +7,5 @@ layout: default
 **This should be bold.**
 
 A table in markdown.
+
+A table not in markdown.
