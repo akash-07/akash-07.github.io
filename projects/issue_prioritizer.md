@@ -14,11 +14,11 @@ layout: default
 
 Issues are a common mode of tracking bugs in software projects. Integrators face challenges with regards to prioritizing work in the face of concurrent issues. We designed and implemented Issue-Prioritizer, a tool to prioritize issues based on machine learning techniques. Issue-Prioritizer works like a priority inbox for issues, recommending top issues the user should focus on based on his/her own priorities which can be set through some parameters.
 
-**Architecture**
+### Architecture
 
 ![image2](https://user-images.githubusercontent.com/24961068/48665363-f3da4580-ead2-11e8-9211-cac0f6270cf7.PNG)
 
-**How do we assign priority?**
+### How do we assign priority?
 
 The priority ordering is based on the following three criteria:
 
@@ -26,7 +26,7 @@ The priority ordering is based on the following three criteria:
 2. Hotness of the issues.
 3. Category of the issues.
 
-**List of features used**
+### List of features used
 
 | Feature  | Description  | Type  |
 |---|---|---|
@@ -38,11 +38,11 @@ The priority ordering is based on the following three criteria:
 | Age| Days until today since creation| Dynamic|
 
 
-**Issue lifetime prediction**
+### Issue lifetime prediction
 
 We predict the lifetime of the issue in days using three features: number of assignees, number of comments and author association of the issue. Choice of these features from all available set of features is intuitive from the fact that more the number of assignees, faster will the issue be closed. Likewise, an issue with author as a project member is more likely to get closed than the issues with authors who are non members.
 
-**Hotness of the issue**
+### Hotness of the issue
 
 The model used for measuring hotness of the issues resembles the one used to find out trending videos on YOUTUBE. Following table compares the parameters used in both models. We use four features for measuring hotness: comments, assignees, author-association and label. 
 
@@ -59,15 +59,15 @@ We define hotness as:
 
 For more details about the formula, find the full report [here](report_issue_prioritizer.pdf).
 
-**Category of the issue**
+### Category of the issue
 
 We need to identify the category of the issue, as some issues are more crucial to resolve immediately than others. For example an bug fix causing crashes would need immediate attention over an issue demanding feature addition. We use Latent Dirichlet allocation to identify the category of the issue from the issue description text.
 
-**Snapshot of Issue Prioritizer**
+### Snapshot of Issue Prioritizer
 
 ![image3](https://user-images.githubusercontent.com/24961068/48665367-f9379000-ead2-11e8-8f7f-a7a0b33d8489.png)
 
-**References**
+### References
 
 1. <https://guides.github.com/features/issues>
 2. Automatically Prioritizing Pull Requests, Erik van de Veen, Georgios Gousios and Andy Zaidman in the Proceedings of 12th Working Conference on Mining
