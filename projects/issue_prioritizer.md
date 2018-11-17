@@ -48,7 +48,8 @@ The model used for measuring hotness of the issues resembles the one used to fin
 We define hotness as:
 
 ![formula](https://user-images.githubusercontent.com/24961068/48665382-31d76980-ead3-11e8-9512-e76006c4baaa.PNG)
-For more details about the formula, find the full report [here].
+
+For more details about the formula, find the full report [here](report_issue_prioritizer.pdf).
 
 **Category of the issue**
 
@@ -60,12 +61,12 @@ We need to identify the category of the issue, as some issues are more crucial t
 
 **References**
 
-1. https://guides.github.com/features/issues
+1. <https://guides.github.com/features/issues>
 2. Automatically Prioritizing Pull Requests, Erik van de Veen, Georgios Gousios and Andy Zaidman in the Proceedings of 12th Working Conference on Mining
 Software Repositories, 2015
 3. G. Gousios, A. Zaidman, M.-A. Storey, and A. van Deursen, Work practices and challenges in pull-based development: The integrator perspective,in Proceedings of the 37th International Conference on Softw are Engineering (ICSE), 2015.
-4. https://support.google.com/youtube/answer/7239739?hl=en
-5. https://github.com/tensorflow/tensorflow
+4. <https://support.google.com/youtube/answer/7239739?hl=en>
+5. <https://github.com/tensorflow/tensorflow>
 
 
 
