@@ -4,7 +4,8 @@ layout: default
 
 ## Github Issue Prioritizer - A tool to prioritize issues on Github
 
-
+| **Title**| **Description**|
+|---|---|
 |**Project**| Software Engineering Lab|
 |**Team Members**|K.S.S Bhargav, Sai Sumanth|
 |**Mentor**|Dr.Sridhar Chimalakonda|
