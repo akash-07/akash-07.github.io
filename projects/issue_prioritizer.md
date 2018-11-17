@@ -8,6 +8,8 @@ Issues are a common mode of tracking bugs in software projects. Integrators face
 
 **Architecture**
 
+![image2](https://user-images.githubusercontent.com/24961068/48665363-f3da4580-ead2-11e8-9211-cac0f6270cf7.PNG)
+
 **How do we assign priority?**
 
 The priority ordering is based on the following three criteria:
@@ -45,8 +47,7 @@ The model used for measuring hotness of the issues resembles the one used to fin
 
 We define hotness as:
 
-[formula]
-
+![formula](https://user-images.githubusercontent.com/24961068/48665382-31d76980-ead3-11e8-9512-e76006c4baaa.PNG)
 For more details about the formula, find the full report [here].
 
 **Category of the issue**
@@ -54,7 +55,8 @@ For more details about the formula, find the full report [here].
 We need to identify the category of the issue, as some issues are more crucial to resolve immediately than others. For example an bug fix causing crashes would need immediate attention over an issue demanding feature addition. We use Latent Dirichlet allocation to identify the category of the issue from the issue description text.
 
 **Snapshot of Issue Prioritizer**
-[photo]
+
+![image3](https://user-images.githubusercontent.com/24961068/48665367-f9379000-ead2-11e8-8f7f-a7a0b33d8489.png)
 
 **References**
 
