@@ -4,15 +4,12 @@ layout: default
 
 ## Github Issue Prioritizer - A tool to prioritize issues on Github
 
-**Project:** Software Engineering Lab
 
-**Team Members:** K.S.S Bhargav, Sai Sumanth
-
-**Mentor:** Dr.Sridhar Chimalakonda
-
-**Date:** Feb - March 2018
-
-**Full report link:** [Report](report_issue_prioritizer.pdf)
+|**Project**| Software Engineering Lab|
+|**Team Members**|K.S.S Bhargav, Sai Sumanth|
+|**Mentor**|Dr.Sridhar Chimalakonda|
+|**Date**|Feb - March 2018|
+|**Full report link**|[Report](report_issue_prioritizer.pdf)|
 
 Issues are a common mode of tracking bugs in software projects. Integrators face challenges with regards to prioritizing work in the face of concurrent issues. We designed and implemented Issue-Prioritizer, a tool to prioritize issues based on machine learning techniques. Issue-Prioritizer works like a priority inbox for issues, recommending top issues the user should focus on based on his/her own priorities which can be set through some parameters.
 
