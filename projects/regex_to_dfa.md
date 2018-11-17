@@ -15,41 +15,7 @@ In this project, we build a regular expression to Finite State Automata converte
 - Algorithm for converting regular expressions directly into DFA taken from the book Compilers: Principles, Techniques and Tools by Aho, Ullman, Sethi and Lam.
 - Graphviz library is utilized for visualization of finite state automatas.
 
-Please find the instructions for running the code here.
-
-### Example NFA
-
-```haskell
-reg = (a*b)*
-*Main> printNFA (build reg)
- States:
- [0,1,2,3,4,5,6,7,8,9]
-
-  Moves:
-  Move 3 'a' 4
-  Move 6 'b' 7
-  EMove 0 1
-  EMove 0 9
-  EMove 1 2
-  EMove 2 3
-  EMove 2 5
-  EMove 4 3
-  EMove 4 5
-  EMove 5 6
-  EMove 7 8
-  EMove 8 1
-  EMove 8 9
-
-  Start State:
-  0
-
-  Final States:
-  [9]
-
-```
-
-Output Image
-
+Please find the instructions for running the code [here](https://github.com/akash-07/Regex-To-NFA).
 
 ### Example DFA
 
@@ -97,5 +63,4 @@ Final States:
 [8]
 
 ```
-
-Output Image
+![image](https://user-images.githubusercontent.com/24961068/48665785-c5606880-eada-11e8-8eea-f6972469fe31.png)
