@@ -1,5 +1,7 @@
 ## Memories from the Shaastra Victory.
 
+<video src="final.mp4" width="320" height="200" controls preload></video>
+
 If anyone ever asks me whether I have seen real magic, my answer would be "Yes!". It was Shaastra 2017. The week of Shaastra was very special for all of us. It was a period of hard work, persistence, courage which brought out the hidden engineering skills in us. We stood first in the competition beating all other teams by huge margins. In Harsha Bhogle's words, they were "beaten by yards, stumped by inches!".
 
 We decided to participate in this competition for fun and filled the form pretty casually. It was the eve of Christmas when I reached my hostel one week early just to find out Saket, Aditya and Ganatma playing around with a bot. The competition was to be held on 1st of January and we had barely a week to go. With a 3D printed chassis, everyone was trying to configure left, right and U turns for line following bot. Two days past, it was 27th, we did not move. Fixing one turn would disturb the other and the bot was unable to turn correctly. We tried harder, finally resorting to styroform sheets to build a new chassis. It too failed miserably. The flaw was with motors, the left wheel rotated faster than the right and could not be fixed.
