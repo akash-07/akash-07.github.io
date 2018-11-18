@@ -3,7 +3,7 @@ date: "2018-18-11"
 ---
 ## Memories from the Shaastra Victory.
 
-<video  class = "center" src="final.mp4" width="400" height="250" controls preload></video>
+<video  align = "center" src="final.mp4" width="400" height="250" controls preload></video>
 
 For technical details of maze solving algorithm, please find my half written book [here](maze-solving-robot.pdf).
 
@@ -16,7 +16,7 @@ Having made 3-4 attempts, I decided to buy every part afresh and build a new bot
 
 We took to building the bot again, divided the tasks, configured the turns. We had no hostel-mess to eat breakfast, neither lunch nor dinner. Time was miserable and I fell ill. With 4 days of outside food, I caught severe stomach ache. While everyone continued, I took to bed for a day. We had one day to go. The bot was not fully ready though. We had some potential problems with IR sensor though we fixed the turns correctly. Saket took to writing the algorithm while Ganatma designed a covering for the bot. The Arduino mini got burned, Aditya took to shop and quickly bought a new Arduino Mega. The bot looked like this:
 
-<img class = "center" src = "https://user-images.githubusercontent.com/24961068/48666305-29882a00-eae5-11e8-92cc-c23e74b82d99.jpg" height = "300" width = "450">
+<img align = "center" src = "https://user-images.githubusercontent.com/24961068/48666305-29882a00-eae5-11e8-92cc-c23e74b82d99.jpg" height = "300" width = "450">
 
 It was 9 pm, last day of the year, we had to leave early morning for the competition. The algorithm wasn't optimal though it solved the maze correctly. We were half ready for round 1 of the competition, did not at all prepare for round 2. Having come this far, we continued to work over night, we worked till 4 am in the morning, finally taking a bus for the same 3hrs journey. Fast forward with the half ready bot, we stepped into the preliminary round. It was a total mess. The bot missed junctions, remembered nothing, took mindless turns and what not. Saket and Aditya gave up, left the bot in the arena and went to watch other competitions in the festival. Me and Ganatma stayed with in the arena somehow managed to clear the prelims. Tricking the judges, I kept placing the misalsigned bot in a way to skip junctions which led to misalginment. We weren't cheating, we just had no other way.
 
