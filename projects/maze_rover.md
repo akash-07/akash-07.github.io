@@ -1,7 +1,13 @@
+---
+date: "2018-18-11"
+---
 ## Memories from the Shaastra Victory.
 
-<video src="final.mp4" width="400" height="250" controls preload></video>
+<video  class = "center" src="final.mp4" width="400" height="250" controls preload></video>
 
+For technical details of maze solving algorithm, please find my half written book [here](maze-solving-robot.pdf).
+
+-------------------------------------
 If anyone ever asks me whether I have seen real magic, my answer would be "Yes!". It was Shaastra 2017. The week of Shaastra was very special for all of us. It was a period of hard work, persistence, courage which brought out the hidden engineering skills in us. We stood first in the competition beating all other teams by huge margins. In Harsha Bhogle's words, they were "beaten by yards, stumped by inches!".
 
 We decided to participate in this competition for fun and filled the form pretty casually. It was the eve of Christmas when I reached my hostel one week early just to find out Saket, Aditya and Ganatma playing around with a bot. The competition was to be held on 1st of January and we had barely a week to go. With a 3D printed chassis, everyone was trying to configure left, right and U turns for line following bot. Two days past, it was 27th, we did not move. Fixing one turn would disturb the other and the bot was unable to turn correctly. We tried harder, finally resorting to styroform sheets to build a new chassis. It too failed miserably. The flaw was with motors, the left wheel rotated faster than the right and could not be fixed.
@@ -10,7 +16,7 @@ Having made 3-4 attempts, I decided to buy every part afresh and build a new bot
 
 We took to building the bot again, divided the tasks, configured the turns. We had no hostel-mess to eat breakfast, neither lunch nor dinner. Time was miserable and I fell ill. With 4 days of outside food, I caught severe stomach ache. While everyone continued, I took to bed for a day. We had one day to go. The bot was not fully ready though. We had some potential problems with IR sensor though we fixed the turns correctly. Saket took to writing the algorithm while Ganatma designed a covering for the bot. The Arduino mini got burned, Aditya took to shop and quickly bought a new Arduino Mega. The bot looked like this:
 
-<img src = "https://user-images.githubusercontent.com/24961068/48666305-29882a00-eae5-11e8-92cc-c23e74b82d99.jpg" height = "300" width = "450">
+<img class = "center" src = "https://user-images.githubusercontent.com/24961068/48666305-29882a00-eae5-11e8-92cc-c23e74b82d99.jpg" height = "300" width = "450">
 
 It was 9 pm, last day of the year, we had to leave early morning for the competition. The algorithm wasn't optimal though it solved the maze correctly. We were half ready for round 1 of the competition, did not at all prepare for round 2. Having come this far, we continued to work over night, we worked till 4 am in the morning, finally taking a bus for the same 3hrs journey. Fast forward with the half ready bot, we stepped into the preliminary round. It was a total mess. The bot missed junctions, remembered nothing, took mindless turns and what not. Saket and Aditya gave up, left the bot in the arena and went to watch other competitions in the festival. Me and Ganatma stayed with in the arena somehow managed to clear the prelims. Tricking the judges, I kept placing the misalsigned bot in a way to skip junctions which led to misalginment. We weren't cheating, we just had no other way.
 
@@ -24,4 +30,3 @@ All that I have to show you, is our pic after winning the competition!
 
 ![photos__shaastra 2017 iit madras](https://user-images.githubusercontent.com/24961068/48666329-5d634f80-eae5-11e8-8058-9eba02fb8cd5.jpg)
 
-For technical details of maze solving, please find my half written book [here](maze-solving-robot.pdf).
