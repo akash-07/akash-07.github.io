@@ -10,7 +10,7 @@ I was awarded the **President's gold medal** for the best academic performance a
 
 Please find a short clip of the award here.  
 
-<video  align = "center" src="presidents_medal.mp4" width="400" height="250" controls preload></video>
+<video  align = "center" src="projects/presidents_medal.mp4" width="400" height="250" controls preload></video>
 
 
 ## Internships
