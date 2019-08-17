@@ -10,6 +10,9 @@ I was awarded the **President's gold medal** for the best academic performance a
 
 Please find a short clip of the award here.  
 
+<video  align = "center" src="presidents_medal.mp4" width="400" height="250" controls preload></video>
+
+
 ## Internships
 
 I have interned at [Very Large Scale Computing Lab](https://www.epfl.ch/labs/vlsc/), EPFL Switzerland where I was mentored by [Stuart Byma](https://people.epfl.ch/stuart.byma?lang=en) and [Prof. James Larus](https://people.epfl.ch/james.larus?lang=en). I worked on the optimization of cluster-merge, a scalable and precise clustering algorithm to recover significantly similar pairs among a set of elements.
